@@ -25,8 +25,6 @@ Alternatively, you can view the live version directly here: [Live Demo](https://
 - Suitable for embedding in other web projects or use as a standalone page.
 - No user input is necessary; just open and enjoy the clock.
 
-![Analog Clock Screenshot](https://analog-clock-theunstopabble.netlify.app/screenshot.png)  
-*(Add an actual screenshot URL if available)*
 
 ## Contributing
 Contributions are welcome! To contribute:
